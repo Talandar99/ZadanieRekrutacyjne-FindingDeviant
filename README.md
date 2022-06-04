@@ -1,6 +1,6 @@
 # Flutter - Zadanie rekrutacyjne (Finding Deviant) 
 
-Projekt zrobiony zgodnie z dokumentem pdf "zadanie rekrutacyjne.pdf"(przynajmniej na tyle na ile byłem w stanie).
+Projekt zrobiony zgodnie z dokumentem pdf "zadanie rekrutacyjne.pdf" (przynajmniej na tyle na ile byłem w stanie).
 
 ## W skrócie
 <ul>
